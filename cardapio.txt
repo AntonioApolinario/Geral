@@ -1,0 +1,4 @@
+1 2,00 pao com mortadela
+2 32,00 qualquer coisa vegana
+3 4,00 prato do dia 3,00
+4 20,00 arroz com feijao 4,00
